@@ -7,7 +7,6 @@
 ## 📬 Get in touch
 
 -  Linkedin :[https://www.linkedin.com/in/randy-odoom-791a941b3/]
--  Portfolio: [https://roodev19.web.app/]
 -  Twitter: [https://twitter.com/OdoomRandy]
 
 ## &#x1f4c8; Tools
