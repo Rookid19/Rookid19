@@ -34,5 +34,3 @@
 <br/>
 <img style="margin-bottom:20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Rookid19&theme=dracula" />
 <br/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rookid19&layout=compact&theme=dracula&count_private=true&langs_count=10" />
-<br/>
